@@ -1,0 +1,8 @@
+* mrc-emacs-core
+
+| Ultima Cumaei venit iam carminis ætas;      | Now comes the final era of the Sibyl's song;     |
+| Magnus ab integro sæclorum nascitur ordo.   | The great order of the ages is born afresh.      |
+| iam redit et Virgo, redeunt Saturnia regna, | And now justice returns, honored rules return;   |
+| iam nova progenies cælo demittitur alto.    | now a new lineage is sent down from high heaven. |
+
+Yeah I'm cleaning up my =.emacs.d=
